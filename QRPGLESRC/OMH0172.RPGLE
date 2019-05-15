@@ -297,7 +297,7 @@
      D C#ALLN          C                   CONST('           *ALL')
      D C#SFL1          C                   CONST(10)
       * Prototype for OMH017
-     D OMH017          PR
+     D OMH0172         PR
      D P#HEDC_                             LIKE(P#HEDC)
      D P#STAT_                             LIKE(P#STAT)
       * Prototype for 'OMH902C'
