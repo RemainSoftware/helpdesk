@@ -44,7 +44,7 @@
       *                                                             *
       * 83 - Show More Options
       * 92 - subfile end indicator                                  *
-      * 99 - General purpose indicator.                             *
+      * 99 - General purpose indicator..                            *
       *                                                             *
       * ----------------------------------------------------------- *
       /EJECT

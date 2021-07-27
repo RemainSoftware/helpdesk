@@ -10,9 +10,8 @@
       *
       * Contributors:
       *     Remain Software - initial API and implementation
+      *
       * ----------------------------------------------------------- *
-
-
 
       * ----------------------------------------------------------- *
       * Description                                                 *
@@ -48,3 +47,4 @@
                   USUSF1    R               REFFLD(USF1)
                   USUSF2    R               REFFLD(USF2)
                   USUSF3    R               REFFLD(USF3)
+                  USEMAC    R               REFFLD(EMAC)
