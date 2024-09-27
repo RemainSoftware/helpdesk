@@ -60,7 +60,7 @@
       * ------------------------------------------------------------ *
       /EJECT
       * ------------------------------------------------------------ *
-      *                                                              *
+      * xxxx                                                         *
       * VAR   Contains variable message text                         *
       * MSD   Contains variable message id (compile time array)      *
       * MC    Used to fill message variables in message data parm.   *
